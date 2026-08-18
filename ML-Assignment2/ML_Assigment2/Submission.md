@@ -32,15 +32,17 @@ The app opens an interactive frontend with CSV upload, model selection dropdown,
 
 *Screenshot of assignment execution on BITS Virtual Lab:*
 
-![BITS Virtual Lab Screenshot](screenshots/bits_lab_screenshot.png)
+![BITS Virtual Lab Screenshot](screenshots/bits_lab1.png)
 
 *Screenshot of Streamlit App - Home Page:*
 
-![Streamlit App Home](screenshots/streamlit_app_home.png)
+![Streamlit App Home](screenshots/bits_lab2.png)
+
+![Streamlit App Home](screenshots/bits_lab3.png)
 
 *Screenshot of Streamlit App - Model Comparison:*
 
-![Streamlit App Comparison](screenshots/streamlit_app_comparison.png)
+![Streamlit App Comparison](screenshots/bits_lab4.png)
 
 ---
 
